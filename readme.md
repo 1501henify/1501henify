@@ -1,6 +1,6 @@
-[![Lies diese README auf Deutsch](https://img.shields.io/badge/🌍%20Lies%20auf%20Deutsch-🇩🇪-blue?style=for-the-badge)]()
+[![Lies diese README auf Deutsch](https://img.shields.io/badge/🌍%20Lies%20auf%20Deutsch-🇩🇪-blue?style=for-the-badge)](https://github.com/1501henify/1501henify/blob/main/README.de.md)
 
-### Hi there, This is ![Henry to Henify Animation](https://raw.githubusercontent.com/)
+### Hi there, This is ![Henry to Henify Animation](https://raw.githubusercontent.com/https://github.com/1501henify/1501henify/blob/main/animate_name.svg)
 
 I am a **Frontend developer** specializing in user interactivity, responsiveness, and sleek up to date designs; worked on numerous frontend projects, working with **HTML5, CSS3, Javascript, SCSS, Bootstrap, React and Angular**, with dabbled experience in backend technologies like **Node.js, PHP with SQL(PostgreSql), and beginner level Python**.
 
@@ -36,6 +36,7 @@ I am a **Frontend developer** specializing in user interactivity, responsiveness
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-okeke-0465b9350?trk=contact-info)
 
 ### 💼 Open to work
+
 - 🎨 **Frontend Open Source Contributor**
 - ✌🏾 **Available for Remote Freelance Projects**
 - 🌏 Looking to **collaborate on exciting web projects**
@@ -49,4 +50,4 @@ I am a **Frontend developer** specializing in user interactivity, responsiveness
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=1501henify&theme=radical&no-frame=false&no-bg=false&margin-w=5)
 
-|| *** ![Profile Views](https://komarev.com/ghpvc/?username=1501henify&color=blueviloet)
+|| \*\*\* ![Profile Views](https://komarev.com/ghpvc/?username=1501henify&color=blueviloet)

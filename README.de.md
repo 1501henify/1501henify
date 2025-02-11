@@ -1,9 +1,9 @@
-[![Read this README.md file in English](https://img.shields.io/badge/🌍%20Lies%20auf%20Deutsch-🇩🇪-blue?style=for-the-badge)]()
+[![Read this README.md file in English](https://img.shields.io/badge/🌍%20Lies%20auf%20Deutsch-🇩🇪-blue?style=for-the-badge)](https://github.com/1501henify/1501henify/blob/main/readme.md)
 
-### Hallo, ich bin ![Henry to Henify Animation](https://raw.githubusercontent.com/)
+### Hallo, ich bin ![Henry to Henify Animation](https://raw.githubusercontent.com/https://github.com/1501henify/1501henify/blob/main/animate_name.svg)
 
-Ich bin ein **Frontend-Entwickler**, der sich auf Benutzerinteraktivität, Responsivität und moderne, stilvolle Designs spezialisiert hat. 
-Ich habe an zahlreichen Frontend-Projekten gearbeitet und beherrsche **HTML5, CSS3, JavaScript, SCSS, Bootstrap, React und Angular**. 
+Ich bin ein **Frontend-Entwickler**, der sich auf Benutzerinteraktivität, Responsivität und moderne, stilvolle Designs spezialisiert hat.
+Ich habe an zahlreichen Frontend-Projekten gearbeitet und beherrsche **HTML5, CSS3, JavaScript, SCSS, Bootstrap, React und Angular**.
 Ich habe auch Erfahrung mit Backend-Technologien wie **Node.js, PHP mit SQL (PostgreSQL) und grundlegendes Wissen in Python**.
 
 🚀 Leidenschaftlich darin, **nützliche, interaktive, zugängliche und effiziente Webseiten zu erstellen**.
@@ -38,9 +38,10 @@ Ich habe auch Erfahrung mit Backend-Technologien wie **Node.js, PHP mit SQL (Pos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-okeke-0465b9350?trk=contact-info)
 
 ### 💼 Offen für neue Möglichkeiten
-- 🎨 **Frontend Open Source Contributor** 
-- ✌🏾 **Verfügbar für Remote-Freelance-Projekte** 
-- 🌏 Bereit zur **Zusammenarbeit an spannenden Web-Projekten** 
+
+- 🎨 **Frontend Open Source Contributor**
+- ✌🏾 **Verfügbar für Remote-Freelance-Projekte**
+- 🌏 Bereit zur **Zusammenarbeit an spannenden Web-Projekten**
 
 ### 📊 GitHub-Statistiken
 
@@ -51,4 +52,4 @@ Ich habe auch Erfahrung mit Backend-Technologien wie **Node.js, PHP mit SQL (Pos
 
 ![GitHub-Trophäen](https://github-profile-trophy.vercel.app/?username=1501henify&theme=radical&no-frame=false&no-bg=false&margin-w=5)
 
-|| *** ![Profilansichten](https://komarev.com/ghpvc/?username=1501henify&color=blueviolet)
+|| \*\*\* ![Profilansichten](https://komarev.com/ghpvc/?username=1501henify&color=blueviolet)
