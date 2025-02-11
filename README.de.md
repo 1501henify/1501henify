@@ -1,4 +1,4 @@
-[![Read this README.md file in English](https://img.shields.io/badge/🌍%20Lies%20auf%20Deutsch-🇩🇪-blue?style=for-the-badge)](https://github.com/1501henify/1501henify/blob/main/readme.md)
+[![Read this README.md file in English](https://img.shields.io/badge/🌍%20Read%20this%20in%20English-🇩🇪-blue?style=for-the-badge)](https://github.com/1501henify/1501henify/blob/main/readme.md)
 
 ### Hallo, ich bin ![Henry to Henify Animation](https://raw.githubusercontent.com/https://github.com/1501henify/1501henify/blob/main/animate_name.svg)
 
