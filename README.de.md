@@ -1,14 +1,16 @@
-[![Lies diese README auf Deutsch](https://img.shields.io/badge/🌍%20Lies%20auf%20Deutsch-🇩🇪-blue?style=for-the-badge)]()
+[![Read this README.md file in English](https://img.shields.io/badge/🌍%20Lies%20auf%20Deutsch-🇩🇪-blue?style=for-the-badge)]()
 
-### Hi there, This is ![Henry to Henify Animation](https://raw.githubusercontent.com/)
+### Hallo, ich bin ![Henry to Henify Animation](https://raw.githubusercontent.com/)
 
-I am a **Frontend developer** specializing in user interactivity, responsiveness, and sleek up to date designs; worked on numerous frontend projects, working with **HTML5, CSS3, Javascript, SCSS, Bootstrap, React and Angular**, with dabbled experience in backend technologies like **Node.js, PHP with SQL(PostgreSql), and beginner level Python**.
+Ich bin ein **Frontend-Entwickler**, der sich auf Benutzerinteraktivität, Responsivität und moderne, stilvolle Designs spezialisiert hat. 
+Ich habe an zahlreichen Frontend-Projekten gearbeitet und beherrsche **HTML5, CSS3, JavaScript, SCSS, Bootstrap, React und Angular**. 
+Ich habe auch Erfahrung mit Backend-Technologien wie **Node.js, PHP mit SQL (PostgreSQL) und grundlegendes Wissen in Python**.
 
-🚀 Passionate about **creating useful, interactive, accessible, and efficient websites**.
+🚀 Leidenschaftlich darin, **nützliche, interaktive, zugängliche und effiziente Webseiten zu erstellen**.
 
-💡 Currently exploring **Software Engineering dev tools and programming languages** like; **Python, Java, and C++** to expand my reach.
+💡 Derzeit erkunde ich **Softwareentwicklungs-Tools und Programmiersprachen** wie **Python, Java und C++**, um mein Wissen zu erweitern.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech-Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,7 +29,7 @@ I am a **Frontend developer** specializing in user interactivity, responsiveness
 ![Server API](https://img.shields.io/badge/API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌍 Connect with Me
+### 🌍 Verbinde dich mit mir
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1501henify)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1501henify)
@@ -35,18 +37,18 @@ I am a **Frontend developer** specializing in user interactivity, responsiveness
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henify_.5/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-okeke-0465b9350?trk=contact-info)
 
-### 💼 Open to work
-- 🎨 **Frontend Open Source Contributor**
-- ✌🏾 **Available for Remote Freelance Projects**
-- 🌏 Looking to **collaborate on exciting web projects**
+### 💼 Offen für neue Möglichkeiten
+- 🎨 **Frontend Open Source Contributor** 
+- ✌🏾 **Verfügbar für Remote-Freelance-Projekte** 
+- 🌏 Bereit zur **Zusammenarbeit an spannenden Web-Projekten** 
 
-### 📊 Github Stats
+### 📊 GitHub-Statistiken
 
-![1501henify's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1501henify&show_icons=true&theme=radical) ;
-![1501henify's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1501henify&layout=compact&theme=radical)
+![1501henifys GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=1501henify&show_icons=true&theme=radical) ;
+![1501henifys Meistgenutzte Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=1501henify&layout=compact&theme=radical)
 
-### 🏆 Github Achievements
+### 🏆 GitHub-Erfolge
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=1501henify&theme=radical&no-frame=false&no-bg=false&margin-w=5)
+![GitHub-Trophäen](https://github-profile-trophy.vercel.app/?username=1501henify&theme=radical&no-frame=false&no-bg=false&margin-w=5)
 
-|| *** ![Profile Views](https://komarev.com/ghpvc/?username=1501henify&color=blueviloet)
+|| *** ![Profilansichten](https://komarev.com/ghpvc/?username=1501henify&color=blueviolet)
