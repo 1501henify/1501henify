@@ -1,6 +1,6 @@
 [![Read this README.md file in English](https://img.shields.io/badge/🌍%20Read%20this%20in%20English-🇩🇪-blue?style=for-the-badge)](https://github.com/1501henify/1501henify)
 
-### Hallo, ich bin ![Henry to Henify Animation](https://raw.githubusercontent.com/https://github.com/1501henify/1501henify/blob/main/animate_name.svg)
+### Hallo, ich bin ![Henry to Henify Animation](https://raw.githubusercontent.com/1501henify/1501henify/blob/main/animate_name.svg)
 
 Ich bin ein **Frontend-Entwickler**, der sich auf Benutzerinteraktivität, Responsivität und moderne, stilvolle Designs spezialisiert hat.
 Ich habe an zahlreichen Frontend-Projekten gearbeitet und beherrsche **HTML5, CSS3, JavaScript, SCSS, Bootstrap, React und Angular**.
