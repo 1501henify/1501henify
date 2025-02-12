@@ -2,7 +2,7 @@
 
 ### <h3 align="center">Hi there, this is</h3>
 
-![Henify Animation](https://raw.githubusercontent.com/1501henify/1501henify/main/animate_name.svg)
+<p align="center">![Henify Animation](https://raw.githubusercontent.com/1501henify/1501henify/main/animate_name.svg)</p>
 
 I am a **Frontend developer** specializing in user interactivity, responsiveness, and sleek up to date designs; worked on numerous frontend projects, working with **HTML5, CSS3, Javascript, SCSS, Bootstrap, React and Angular**, with dabbled experience in backend technologies like **Node.js, PHP with SQL(PostgreSql), and beginner level Python**.
 
