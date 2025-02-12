@@ -1,6 +1,6 @@
 [![Read this README.md file in English](https://img.shields.io/badge/🌍%20Read%20this%20in%20English-🇩🇪-blue?style=for-the-badge)](https://github.com/1501henify/1501henify)
 
-### <h3 align="center">Hallo, ich bin </h3>
+### <h3 align="center">Hallo, ich bin</h3>
 
 <p align="center">
 <img

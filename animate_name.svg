@@ -1,24 +1,49 @@
-<svg width="500" height="100" viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="150" viewBox="0 0 500 150" xmlns="http://www.w3.org/2000/svg">
     <style>
-        @keyframes fadeIn {
-            0% { opacity: 0; transform: translateY(10px); }
-            100% { opacity: 1; transform: translateY(0); }
+        @keyframes typing {
+            0% { content: ""; }
+            14% { content: "H"; }
+            28% { content: "He"; }
+            42% { content: "Hen"; }
+            56% { content: "Henr"; }
+            70% { content: "Henry"; }
         }
-        text {
+        @keyframes typing2 {
+            0% { content: ""; }
+            20% { content: "H"; }
+            40% { content: "He"; }
+            60% { content: "Hen"; }
+            80% { content: "Heni"; }
+            100% { content: "Henify"; }
+        }
+        @keyframes typing3 {
+            0% { content: ""; }
+            25% { content: "F"; }
+            50% { content: "Fr"; }
+            75% { content: "Fro"; }
+            100% { content: "Frontend Developer"; }
+        }
+        @keyframes typing4 {
+            0% { content: ""; }
+            25% { content: "A"; }
+            50% { content: "As"; }
+            75% { content: "Asp"; }
+            100% { content: "Aspiring Software Developer"; }
+        }
+        text::after {
             font-family: Arial, sans-serif;
             font-size: 24px;
             font-weight: bold;
             fill: black;
-            opacity: 0;
         }
-        #text1 { animation: fadeIn 1s ease-in-out 0.5s forwards; }
-        #text2 { animation: fadeIn 1s ease-in-out 1.5s forwards; }
-        #text3 { animation: fadeIn 1s ease-in-out 2.5s forwards; }
-        #text4 { animation: fadeIn 1s ease-in-out 3.5s forwards; }
+        #text1::after { animation: typing 1.5s steps(5) forwards; content: ""; }
+        #text2::after { animation: typing2 1s steps(6) 2s forwards; content: ""; }
+        #text3::after { animation: typing3 1s steps(4) 3s forwards; content: ""; }
+        #text4::after { animation: typing4 1s steps(4) 4s forwards; content: ""; }
     </style>
    
-    <text id="text1" x="50%" y="30%" dominant-baseline="middle" text-anchor="middle">Henry</text>
-    <text id="text2" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle">Henify</text>
-    <text id="text3" x="50%" y="70%" dominant-baseline="middle" text-anchor="middle">Frontend Developer</text>
-    <text id="text4" x="50%" y="90%" dominant-baseline="middle" text-anchor="middle">Aspiring Software Engineer</text>
+    <text id="text1" x="50%" y="30%" dominant-baseline="middle" text-anchor="middle"></text>
+    <text id="text2" x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"></text>
+    <text id="text3" x="50%" y="70%" dominant-baseline="middle" text-anchor="middle"></text>
+    <text id="text4" x="50%" y="90%" dominant-baseline="middle" text-anchor="middle"></text>
 </svg>
