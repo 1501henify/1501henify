@@ -1,6 +1,11 @@
 [![Read this README.md file in English](https://img.shields.io/badge/🌍%20Read%20this%20in%20English-🇩🇪-blue?style=for-the-badge)](https://github.com/1501henify/1501henify)
 
-### Hallo, ich bin ![Henry to Henify Animation](https://raw.githubusercontent.com/1501henify/1501henify/main/animate_name.svg)
+### <h3 align="center">Hallo, ich bin </h3>
+
+<p align="center">
+<img
+src="https://raw.githubusercontent.com/1501henify/1501henify/main/animate_name.svg" width="500" alt="Henify Animation">
+</p>
 
 Ich bin ein **Frontend-Entwickler**, der sich auf Benutzerinteraktivität, Responsivität und moderne, stilvolle Designs spezialisiert hat.
 Ich habe an zahlreichen Frontend-Projekten gearbeitet und beherrsche **HTML5, CSS3, JavaScript, SCSS, Bootstrap, React und Angular**.
@@ -52,4 +57,4 @@ Ich habe auch Erfahrung mit Backend-Technologien wie **Node.js, PHP mit SQL (Pos
 
 ![GitHub-Trophäen](https://github-profile-trophy.vercel.app/?username=1501henify&theme=radical&no-frame=false&no-bg=false&margin-w=5)
 
-|| \*\*\* ![Profilansichten](https://komarev.com/ghpvc/?username=1501henify&color=blueviolet)
+
