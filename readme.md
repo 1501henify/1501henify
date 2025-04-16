@@ -3,12 +3,7 @@
 ### <h3 align="center">Hi there, this is</h3>
 
 <p align="center">
-<<<<<<< HEAD
   <img src="https://readme-typing-svg.demolab.com/?lines=Henry+Ifeanyi;Henify+!;Frontend+Developer+!;Aspiring+Software+Developer+!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-=======
-<img
-src="https://raw.githubusercontent.com/1501henify/1501henify/main/animate_name.svg" width="500" alt="Henify Animation">
->>>>>>> 4b5507e4d8f5fe478c3a50d191cd42960929f4b9
 </p>
 
 I am a **Frontend developer** specializing in user interactivity, responsiveness, and sleek up to date designs; worked on numerous frontend projects, working with **HTML5, CSS3, Javascript, SCSS, Bootstrap, React and Angular**, with dabbled experience in backend technologies like **Node.js, PHP with SQL(PostgreSql), and beginner level Python**.
