@@ -3,7 +3,7 @@
 ### <h3 align="center">Hallo, ich bin</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Henry+Ifeanyi;Henify_;Frontend-Entwickler+mit+Ambitionen+als+Softwareentwickler!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Henry+Ifeanyi;Henify_;Frontend-Entwickler+mit;Ambitionen+als;Softwareentwickler!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 Ich bin ein **Frontend-Entwickler**, der sich auf Benutzerinteraktivität, Responsivität und moderne, stilvolle Designs spezialisiert hat.
