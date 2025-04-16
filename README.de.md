@@ -3,8 +3,7 @@
 ### <h3 align="center">Hallo, ich bin</h3>
 
 <p align="center">
-<img
-src="https://raw.githubusercontent.com/1501henify/1501henify/main/animate_name.svg" width="500" alt="Henify Animation">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Henry+Ifeanyi;Henify_;Frontend-Entwickler+mit+Ambitionen+als+Softwareentwickler!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 Ich bin ein **Frontend-Entwickler**, der sich auf Benutzerinteraktivität, Responsivität und moderne, stilvolle Designs spezialisiert hat.
@@ -56,5 +55,3 @@ Ich habe auch Erfahrung mit Backend-Technologien wie **Node.js, PHP mit SQL (Pos
 ### 🏆 GitHub-Erfolge
 
 ![GitHub-Trophäen](https://github-profile-trophy.vercel.app/?username=1501henify&theme=radical&no-frame=false&no-bg=false&margin-w=5)
-
-
