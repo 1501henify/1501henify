@@ -3,7 +3,7 @@
 ### <h3 align="center">Hi there, this is</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Henry+Ifeanyi;Henify_;Frontend+Developer!;Aspiring+Software+Developer!&font=Poppins%20Code&center=true&width=350&height=50&color=39ff14&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Henry+Ifeanyi;Henify_;Frontend+Developer!;Aspiring+Software+Developer!&font=Poppins%20Code&center=true&width=350&height=50&color=39ff14&duration=4000&pause=1000" alt="README Typing SVG">
 </p>
 
 I am a **Frontend developer** specializing in user interactivity, responsiveness, and sleek up to date designs; worked on numerous frontend projects, working with **HTML5, CSS3, Javascript, SCSS, Bootstrap, React and Angular**, with dabbled experience in backend technologies like **Node.js, PHP with SQL(PostgreSql), and beginner level Python**.
@@ -33,10 +33,7 @@ I am a **Frontend developer** specializing in user interactivity, responsiveness
 
 ### 🌍 Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1501henify)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1501henify)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://m.facebook.com/61561203893651/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henify_.5/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-okeke-0465b9350?trk=contact-info)
 
 ### 💼 Open to work
@@ -47,9 +44,6 @@ I am a **Frontend developer** specializing in user interactivity, responsiveness
 
 ### 📊 Github Stats
 
-![1501henify's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1501henify&show_icons=true&theme=radical) ;
+![1501henify's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1501henify&show_icons=true&theme=radical) 
 ![1501henify's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1501henify&layout=compact&theme=radical)
 
-### 🏆 Github Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=1501henify&theme=radical&no-frame=false&no-bg=false&margin-w=5)
