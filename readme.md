@@ -31,11 +31,6 @@ I am a **Frontend developer** specializing in user interactivity, responsiveness
 ![Server API](https://img.shields.io/badge/API-%23000000.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌍 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1501henify)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-okeke-0465b9350?trk=contact-info)
-
 ### 💼 Open to work
 
 - 🎨 **Frontend Open Source Contributor**
