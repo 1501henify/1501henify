@@ -14,6 +14,3 @@ Hallo ✌🏾
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-![1501henify's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1501henify&show_icons=true&theme=radical)
-![1501henify's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1501henify&layout=compact&theme=radical)
