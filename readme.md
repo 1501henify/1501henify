@@ -2,9 +2,9 @@
 
 ### Henry (Anyi)
 
-<p align="center">
 <!-- Spotify -->
-[![Spotify](https://img.shields.io/badge/Spotify-Listen-6B4C36?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/bpTkzgGnGXb)
+
+[![Spotify](https://img.shields.io/badge/Spotify-Listen-6B4C36?style=for-the-badge&logo=spotify&logoColor=white&v=1)](https://spotify.link/bpTkzgGnGXb)
 
 <!-- Website -->
 
@@ -26,5 +26,4 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-6B4C36?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348160813334)
 
-</p>
 </div>
