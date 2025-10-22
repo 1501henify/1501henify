@@ -3,25 +3,28 @@
 ### Henry (Anyi)
 
 <p align="center">
-  <!-- Spotify -->
-  <a href="https://spotify.link/bpTkzgGnGXb" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spotify/spotify-original.svg" width="30" height="30" alt="Spotify"/>
-  </a>
-  <!-- Website -->
-  <a href="https://universal-henify.vercel.app/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" width="30" height="30" alt="Website"/>
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/ifyOke0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30" alt="GitHub"/>
-  </a>
-  <!-- X (Twitter) -->
-  <a href="https://x.com/IfyOke0?s=09" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="30" height="30" alt="X"/>
-  </a>
-  <!-- Discord -->
-  <a href="https://discordapp.com/users/1262097173894660160" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="30" height="30" alt="Discord"/>
-  </a>
+<!-- Spotify -->
+[![Spotify](https://img.shields.io/badge/Spotify-Listen-6B4C36?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.link/bpTkzgGnGXb)
+
+<!-- Website -->
+
+[![Website](https://img.shields.io/badge/Website-Visit-6B4C36?style=for-the-badge&logo=about.me&logoColor=white)](https://universal-henify.vercel.app/)
+
+<!-- GitHub -->
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-6B4C36?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ifyOke0)
+
+<!-- X (Twitter) -->
+
+[![X](https://img.shields.io/badge/X-Tweet-6B4C36?style=for-the-badge&logo=x&logoColor=white)](https://x.com/IfyOke0?s=09)
+
+<!-- Discord -->
+
+[![Discord](https://img.shields.io/badge/Discord-Chat-6B4C36?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1262097173894660160)
+
+<!-- Whatsapp -->
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-6B4C36?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2348160813334)
+
 </p>
 </div>
